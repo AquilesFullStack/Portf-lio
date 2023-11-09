@@ -10,43 +10,55 @@ const Projetos = () => (
       <li>
         <Projeto />
       </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
     </Lista>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
-    <li>
-      <Projeto />
-    </li>
   </section>
 )
 
